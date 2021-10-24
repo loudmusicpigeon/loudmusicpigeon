@@ -4,14 +4,11 @@
 #### I am a video editor and I work in the live video production field. 📽🔴
 
 ## SOCIAL LINKS
-- [Facebook](https://www.facebook.com/ChaosKid473)
-- [YouTube](https://www.youtube.com/channel/UCdzNesZWTZQrZNwylE65OXw)
-- [Twitch](https://www.twitch.tv/loudmusicpigeon)
-- [Snapchat](https://www.snapchat.com/add/chaoskid_473)
+- [Linktree](https://linktr.ee/loudmusicpigeon)
 
 ## My most recent project:
-#### [CCA Tech Summer Camp 2021: A Day At The Amusement Park 🎡🎢](https://youtu.be/teXmkpGqGyM)
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=teXmkpGqGyM
-" target="_blank"><img src="http://img.youtube.com/vi/teXmkpGqGyM/0.jpg" 
-alt="CCA Tech Summer Camp 2021: A Day At The Amusement Park 🎡🎢" width="240" height="180" border="10" /></a>
+#### [Plants Short Film](https://youtu.be/vG4z5CVSDDM)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=vG4z5CVSDDM
+" target="_blank"><img src="http://img.youtube.com/vi/vG4z5CVSDDM/0.jpg" 
+alt="Plants Short Film" width="240" height="180" border="10" /></a>
 
