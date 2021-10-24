@@ -3,8 +3,7 @@
 
 #### I am a video editor and I work in the live video production field. 📽🔴
 
-## SOCIAL LINKS
-- [Linktree](https://linktr.ee/loudmusicpigeon)
+## [SOCIAL LINKS](https://linktr.ee/loudmusicpigeon)
 
 ## My most recent project:
 #### [Plants Short Film](https://youtu.be/vG4z5CVSDDM)
