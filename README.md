@@ -8,6 +8,6 @@
 ## My most recent project:
 #### [Black Echo](https://youtu.be/7O6sTK4X7WI)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=7O6sTK4X7WI
-" target="_blank"><img src="http://img.youtube.com/vi/vG4z5CVSDDM/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/7O6sTK4X7WI.jpg" 
 alt="Plants Short Film" width="240" height="180" border="10" /></a>
 
