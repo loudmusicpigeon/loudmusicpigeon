@@ -6,8 +6,7 @@
 ## [SOCIAL LINKS](https://linktr.ee/loudmusicpigeon)
 
 ## My most recent project:
-#### [Black Echo](https://youtu.be/7O6sTK4X7WI)
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=7O6sTK4X7WI
-" target="_blank"><img src="http://img.youtube.com/vi/7O6sTK4X7WI.jpg" 
-alt="Black Echo" width="240" height="180" border="10" /></a>
-
+#### [Audition Video](https://youtu.be/zpzyRwSXep0)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=zpzyRwSXep0
+" target="_blank"><img src="https://i.ytimg.com/vi/zpzyRwSXep0/hqdefault.jpg" 
+alt="Audition Video" width="300" /></a>
