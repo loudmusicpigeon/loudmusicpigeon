@@ -10,5 +10,3 @@
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UrkZcixfouc
 " target="_blank"><img src="https://i.ytimg.com/vi/UrkZcixfouc/hqdefault.jpg" 
 alt="Entrepreneurship" width="300" /></a>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UrkZcixfouc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
