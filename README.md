@@ -6,7 +6,7 @@
 ## [SOCIAL LINKS](https://linktr.ee/loudmusicpigeon)
 
 ## My most recent project:
-#### [Audition Video](https://youtu.be/zpzyRwSXep0)
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=zpzyRwSXep0
-" target="_blank"><img src="https://i.ytimg.com/vi/zpzyRwSXep0/hqdefault.jpg" 
-alt="Audition Video" width="300" /></a>
+#### [Entrepreneurship](https://youtu.be/UrkZcixfouc)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=UrkZcixfouc
+" target="_blank"><img src="https://i.ytimg.com/vi/UrkZcixfouc/hqdefault.jpg" 
+alt="Entrepreneurship" width="300" /></a>
